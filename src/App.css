@@ -2,6 +2,27 @@
   text-align: center;
 }
 
+.section {
+  width: 100%;
+  background: #173f4f;
+  height: 780px;
+}
+
+.navbar {
+  background-color: #173f4f;
+}
+
+.navbar-brand {
+  color: #ffffff;
+}
+
+/* header {
+  background-color: #173f4f;
+  color: beige;
+  padding-top: 20px;
+  padding-bottom: 20px;
+} */
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
